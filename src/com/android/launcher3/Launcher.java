@@ -2389,6 +2389,7 @@ public class Launcher extends StatefulActivity<LauncherState>
         mWorkspace.unlockWallpaperFromDefaultPageOnNextLayout();
     }
 
+    //
     /**
      * Remove odd number because they are already included when isTwoPanels and add the pair screen
      * if not present.
